@@ -1,2 +1,0 @@
-# TeacherRouterAPI
-Created with CodeSandbox
