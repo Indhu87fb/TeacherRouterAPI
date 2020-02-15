@@ -6,7 +6,9 @@
   "scripts": {
     "start": "nodemon src/index.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "1.19.0"
+  },
   "devDependencies": {
     "nodemon": "1.18.4"
   },
