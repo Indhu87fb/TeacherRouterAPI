@@ -11,7 +11,7 @@ teacherRouter.post("/", (req, res) => {
   }
 });
 teacherRouter.get("/:id", (req, res) => {
-  // const studentId = req.params.id;
+  // const teacherId = req.params.id;
   const { id = "" } = req.params;
   const requiredteacher = teachers.find(teacher => {
     if (parseInt(id) === teacher.id) return true;

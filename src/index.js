@@ -8,7 +8,7 @@ const app = express();
 app.use(bodyParser.json());
 
 app.get("/", (req, res) => {
-  res.send("Hello world");
+  res.send("Hello Indhumathi");
 });
 app.use("/teachers", teachersRouter);
 app.use("/teacher", teacherRouter);
