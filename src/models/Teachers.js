@@ -14,6 +14,22 @@ const teachers = [
     age: 26,
     gender: "female",
     qualification: "MCA"
+  },
+  {
+    id: 3,
+    firstName: "MYTHILI",
+    lastName: "SREE",
+    age: 26,
+    gender: "female",
+    qualification: "MCA,M.PHIL"
+  },
+  {
+    id: 6,
+    firstName: "MYTHILI",
+    lastName: "SREE",
+    age: 26,
+    gender: "female",
+    qualification: "MCA,M.PHIL"
   }
 ];
 
